@@ -1,0 +1,54 @@
+<template>
+  <div class="home">
+    <temple name="topBar" logo="http://www.people.com.cn/img/2016people/images/rmw_logo.png"  src="https://owo.ink/public/f328a09df7e4e0adc0303287f5e1bcc5.page"></temple>
+    <div class="w1000 content">
+      <temple name="nav"  src="https://owo.ink/public/7a47ef367169c9579b2d164e4dc953e8.page"></temple>
+      <!-- 顶部新闻栏目 -->
+      <div class="box-1">
+        <div class="left">
+          <temple name="44V6SpMv"  src="https://owo.ink/public/63a4be6677258acd991f865794e5605e.page"></temple>
+        </div>
+        <div class="right">
+          <h2>世界围棋公开赛俄罗斯选手爆冷晋级32强</h2>
+          <temple name="a5Jkh9zomp95ftbW"  src="https://owo.ink/public/f6f3e7e8691c2cf683f992fe7f24f22a.page"></temple>
+          <h2>世界围棋公开赛俄罗斯选手爆冷晋级32强</h2>
+          <temple name="a5Jkh9zomp95ftbW"  src="https://owo.ink/public/f6f3e7e8691c2cf683f992fe7f24f22a.page"></temple>
+        </div>
+      </div>
+    </div> 
+  </div>
+</template>
+
+<script>
+  module.exports = {
+    created: function () {
+
+    }
+  }
+</script>
+
+
+<style lang="less">
+.box-1 {
+  margin: 30px 40px;
+  height: 490px;
+  .left {
+    width: 510px;
+    height: 100%;
+    float: left;
+  }
+  .right {
+    width: 390px;
+    height: 100%;
+    float: left;
+    padding-left: 20px;
+    h2 {
+      font-size: 21px;
+      line-height: 40px;
+      color: #2a4e74;
+      font-weight: bold;
+      font-family: "Microsoft YaHei";
+    }
+  }
+}
+</style>
