@@ -402,7 +402,7 @@ module.exports = {
     this.changeItem(0)
     const newsList = owo.query('.qiehuan1 i')
     for (let ind = 0; ind < newsList.length; ind++) {
-      newsList[ind].onclick = () => {
+      newsList[ind].onmouseover = () => {
         this.changeItem(ind)
       }
     }
