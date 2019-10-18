@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <temple name="topBar" logo="http://www.people.com.cn/img/2016people/images/rmw_logo.png"  src="https://owo.ink/public/f328a09df7e4e0adc0303287f5e1bcc5.page"></temple>
-    <div class="w1000 content">
+    <div class="w1000 content clear">
       <temple name="nav"  src="https://owo.ink/public/7a47ef367169c9579b2d164e4dc953e8.page"></temple>
       <!-- 顶部新闻栏目 -->
       <div class="box-1 clear">
@@ -27,14 +27,29 @@
       <temple name="show"  src="https://owo.ink/public/1daac229a234cff3f81bdd31868e298f.page"></temple>
       <temple name="selectBox"  src="./src/module/selectBox.owo"></temple>
       <!-- 新闻列表 -->
-      <div class="news-box">
-        <div class="left">
+      <div class="news-box clear">
+        <div class="news-box-left w600">
           <temple name="peopleNewsList"  src="./src/module/peopleNewsList.owo"></temple>
+          <!-- 启动仪式 -->
+          <h2 class="mini-title">启动仪式</h2>
+          <img width="600" height="344" class="big-img" src="http://cms.peopleurl.cn/NMediaFile/2019/1012/MAIN201910121119206189762588389.jpg">
+        </div>
+        <div class="right">
+          <h2 class="mini-title">装备科技</h2>
+          <temple name="imageShowList"  src="./src/module/imageShowList.owo"></temple>
+          <h2 class="mini-title">户外大咖说</h2>
+          <temple name="imageShowList"  src="./src/module/imageShowList.owo"></temple>
+          <h2 class="mini-title">户外空间</h2>
+          <temple name="imageShowList"  src="./src/module/imageShowList.owo"></temple>
+          <temple name="show"  src="https://owo.ink/public/1daac229a234cff3f81bdd31868e298f.page"></temple>
+          <temple name="show"  src="https://owo.ink/public/1daac229a234cff3f81bdd31868e298f.page"></temple>
+          <temple name="show"  src="https://owo.ink/public/1daac229a234cff3f81bdd31868e298f.page"></temple>
         </div>
       </div>
-      <!-- 左侧悬浮 -->
-      <temple name="Qj0JzJ"  src="https://owo.ink/public/e6ab7da94b30399ecf828f1c8c704521.page"></temple>
-    </div> 
+    </div>
+    <temple name="copyright"  src="https://owo.ink/public/080195cd2dcfc878e55f9b7f9fa1c9b7.page"></temple>
+    <!-- 左侧悬浮 -->
+    <temple name="Qj0JzJ"  src="https://owo.ink/public/e6ab7da94b30399ecf828f1c8c704521.page"></temple>
   </div>
 </template>
 
@@ -85,5 +100,37 @@
 }
 .select-box {
   margin: 25px 0;
+}
+.big-img {
+  width: 100%;
+  height: auto;
+}
+.mini-title {
+  color: #214f80;
+  font-size: 23px;
+  line-height: 50px;
+  font-weight: bold;
+  letter-spacing: 4px;
+  margin-bottom: 10px;
+  font-family: "Microsoft YaHei";
+}
+.people {
+  margin-bottom: 20px;
+}
+.news-box {
+  .news-box-left {
+    float: left;
+  }
+  .right {
+    width: 328px;
+    margin-left: 62px;
+    float: left;
+    .show {
+      margin: 20px 0;
+    }
+  }
+}
+.image-show-list {
+  margin-bottom: 20px;
 }
 </style>

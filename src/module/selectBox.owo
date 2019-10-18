@@ -1,21 +1,21 @@
 <template>
   <div class="select-box">
-    <div class="item item-1">
+    <div class="item item-1" o-hover="grow">
       <a href="#">
         <img src="@|item-1.png|">
       </a>
     </div>
-    <div class="item item-2">
+    <div class="item item-2" o-hover="grow">
       <a href="#">
         <img src="@|item-2.png|">
       </a>
     </div>
-    <div class="item item-3">
+    <div class="item item-3" o-hover="grow">
       <a href="#">
         <img src="@|item-3.png|">
       </a>
     </div>
-    <div class="item item-4">
+    <div class="item item-4" o-hover="grow">
       <a href="#">
         <img src="@|item-4.png|">
       </a>

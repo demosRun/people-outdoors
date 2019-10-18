@@ -7,9 +7,11 @@ body, html {
   min-width: 1200px;
   font: normal 12px/180% "SimSun";
   -webkit-overflow-scrolling: touch;
-  overflow-x: hidden;
 }
 html {
+  overflow: auto;
+}
+body {
   background-color: white;
   background-repeat: no-repeat;
   background-position: center top;
@@ -17,7 +19,7 @@ html {
   width: 100%;
   background-size: 100% auto;
 }
-body, html, .ox {
+body, html {
   padding: 0;
   margin: 0;
   height: 100%;
@@ -60,6 +62,6 @@ h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, bu
 }
 
 .content {
-  margin-top: 14%;
+  margin-top: 16%;
   background-color: white;
 }

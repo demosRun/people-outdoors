@@ -1,5 +1,5 @@
 <template>
-<div class="left w655 people">
+<div class="left w600 people">
   <a name="fy01"></a>
   <!--切换标题-->
   <h2 class="qiehuan1 mt15">
@@ -8,7 +8,7 @@
     <i>法治生活</i>
   </h2>
   <!--切换内容1-->
-  <div class="headingNews qiehuan1_c" style="display: none;">
+  <div class="headingNews qiehuan1_c">
     <div class="hdNews clearfix">
       <div class="on">
         <h5>
@@ -136,7 +136,7 @@
     <!--PageNo=12--></div>
   <!--end切换内容1-->
   <!--切换内容2-->
-  <div class="headingNews qiehuan1_c" style="display:none;">
+  <div class="headingNews qiehuan1_c">
     <div class="hdNews clearfix">
       <div class="on">
         <h5>
@@ -267,7 +267,7 @@
     <!--PageNo=12--></div>
   <!--end切换内容2-->
   <!--切换内容3-->
-  <div class="headingNews qiehuan1_c" style="">
+  <div class="headingNews qiehuan1_c">
     <div class="hdNews clearfix">
       <div class="on">
         <h5>
@@ -396,7 +396,36 @@
 </div>
 </template>
 
+<script>
+module.exports = {
+  created: function () {
+    this.changeItem(0)
+    const newsList = owo.query('.qiehuan1 i')
+    for (let ind = 0; ind < newsList.length; ind++) {
+      newsList[ind].onclick = () => {
+        this.changeItem(ind)
+      }
+    }
+  },
+  changeItem: function (index) {
+    const menuList = owo.query('.qiehuan1 i')
+    const newsList = owo.query('.headingNews')
+    for (let ind = 0; ind < newsList.length; ind++) {
+      newsList[ind].style.display = 'none'
+    }
+    for (let ind = 0; ind < menuList.length; ind++) {
+      menuList[ind].classList.remove('one')
+    }
+    newsList[index].style.display = 'block'
+    menuList[index].classList.add('one')
+  }
+}
+</script>
+
 <style original>
+.headingNews {
+  display: none;
+}
 .sp_news_box strong{ font-family:"\5FAE\8F6F\96C5\9ED1"; font-size:18px; line-height:30px;}
 .sp_news_box p{ line-height:28px; font-size:12px;}
 .sp_news_box p a{ margin:auto 5px;} 
@@ -416,7 +445,7 @@
 }
 .qiehuan1 i{
   font-family: "\5FAE\8F6F\96C5\9ED1";
-  font-size: 20px;
+  font-size: 22px;
   line-height: 60px;
   font-weight: normal;
   padding: 0 13px;
@@ -425,7 +454,7 @@
   float: left;
   cursor: pointer;
   color: #bfbfbf;
-  
+  letter-spacing: 4px;
 }
 .qiehuan1 i.one {
   color: #26517c;
@@ -474,22 +503,28 @@
 .hdNews div.on h5 {
   font: bold 24px \5FAE\8F6F\96C5\9ED1;
   line-height: 34px;
-  margin-bottom: 10px;
+  padding: 10px 0;
   font-weight: normal;
+  margin: 0;
 }
 .hdNews a:link, .hdNews a:visited {
   color: #000;
   text-decoration: none;
 }
 .page_n{ text-align:center; padding:20px 0;}
-.page_n a{ border:#dddad2 1px solid; background:#f7f6f3; padding:10px 15px; margin:0 5px;}
+.page_n a {
+  border:#dddad2 1px solid;
+  background:#f7f6f3;
+  padding: 10px 15px;
+  color: #000000;
+}
 .page_n a:hover{ background:#cc3333; color:#fff; text-decoration:none;}
 .bshare-custom .bshare-more.more-style-addthis{background-image:url(http://sports.people.com.cn/img/MAIN/2016/10/116825/images/icon3.gif);}
 .people em, .people i {
   font-style: normal;
 }
-.w655 {
-  width: 655px;
+.w600 {
+  width: 600px;
 }
 .bshare-more.bshare-more-icon {
   height: 25px;

@@ -1,0 +1,29 @@
+<template>
+  <div class="image-show-list">
+    <a href="#">
+      <img width="288" height="130" src="http://www.people.com.cn/NMediaFile/2019/1018/MAIN201910180031067527483482125.jpg"/>
+      <p class="info">欧预赛首支出线球队诞生 比利时9球大胜晋级</p>
+    </a>
+    <temple name="list"  src="https://owo.ink/public/349aee08654c8b9ad14262b0d91a0b86.page"></temple>
+  </div>
+</template>
+
+<style>
+.image-show-list {
+  width: 288px;
+  height: 305px;
+  padding: 20px;
+  background-repeat: no-repeat;
+  background-image: url('@|card-bg.jpg|');
+}
+img, a {
+  display: block;
+}
+.info {
+  text-align: center;
+  color: #595757;
+  line-height: 35px;
+  height: 35px;
+  overflow: hidden;
+}
+</style>

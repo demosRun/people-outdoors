@@ -45,5 +45,6 @@
     bottom: 110px;
     filter: alpha(opacity=80);
     z-index: 100;
+    margin-top: 15px;
   }
 </style>
