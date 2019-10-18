@@ -18,7 +18,7 @@ li {
   position: relative;
   cursor: pointer;
   a {
-    color: black;
+    color: #585858;
     text-decoration: none;
   }
   a:hover {
@@ -42,7 +42,7 @@ li {
   background-image: url('http://opinion.people.com.cn/img/MAIN/2014/06/114590/images/dot.gif');
 }
 a {
-  height: 36px;
+  height: 100%;
   overflow: hidden;
   display: block;
   cursor: pointer;

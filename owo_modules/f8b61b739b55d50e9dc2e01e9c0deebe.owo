@@ -22,7 +22,8 @@
 <style lang="less">
 .main-bar {
   width: 1000px;
-  font-size: 18px;
+  font-size: 20px;
+  font-weight: bold;
   height: 50px;
   line-height: 50px;
   text-align: center;
@@ -30,7 +31,7 @@
   text-align: center;
   white-space: nowrap;
   overflow: hidden;
-  background-color: #ce262a;
+  background-image: url('@|main-title-bg.png|');
   a {
     color: #ffffff;
     text-decoration: none;

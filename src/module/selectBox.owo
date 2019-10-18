@@ -1,0 +1,48 @@
+<template>
+  <div class="select-box">
+    <div class="item item-1">
+      <a href="#">
+        <img src="@|item-1.png|">
+      </a>
+    </div>
+    <div class="item item-2">
+      <a href="#">
+        <img src="@|item-2.png|">
+      </a>
+    </div>
+    <div class="item item-3">
+      <a href="#">
+        <img src="@|item-3.png|">
+      </a>
+    </div>
+    <div class="item item-4">
+      <a href="#">
+        <img src="@|item-4.png|">
+      </a>
+    </div>
+  </div>
+</template>
+
+<style>
+.select-box {
+  height: 80px;
+  width: 1000px;
+}
+.item {
+  float: left;
+  width: 240px;
+  height: 80px;
+  overflow: hidden;
+}
+a, img {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.item-2 {
+  margin: 0 13px;
+}
+.item-3 {
+  margin-right: 13px;
+}
+</style>
