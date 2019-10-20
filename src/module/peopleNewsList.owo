@@ -547,7 +547,15 @@ module.exports = {
   font-size: 14px;
   color: #585858;
 }
-.hdNews div.on{ display:block; clear:both; margin:10px 0 0; font-size:14px; line-height:36px}
+.hdNews div.on {
+  display:block;
+  clear:both;
+  margin:10px 0 0;
+  font-size:14px;
+  line-height:36px;
+  height: 130px;
+  overflow: hidden;
+}
 .hdNews div.on img{ display:block; float:left; margin-right:20px; margin-top:10px;}
 .hdNews div.on h5{font: normal 24px/200% \5FAE\8F6F\96C5\9ED1;  display: block; line-height:36px; padding-bottom:15px;}
 .hdNews div.on em{ color:#666;}

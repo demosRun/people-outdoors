@@ -1,7 +1,7 @@
 <template>
   <div class="image-show">
     <a href="#">
-      <img src="http://www.people.com.cn/NMediaFile/2019/1018/MAIN201910180031067527483482125.jpg">
+      <img width="160" height="90" src="http://www.people.com.cn/NMediaFile/2019/1018/MAIN201910180031067527483482125.jpg">
       <h4>说明文字说明文字说明文字说明文字说明文字</h4>
     </a>
   </div>

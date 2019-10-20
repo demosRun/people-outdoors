@@ -32,7 +32,7 @@
           <temple name="peopleNewsList"  src="./src/module/peopleNewsList.owo"></temple>
           <!-- 启动仪式 -->
           <h2 class="mini-title">启动仪式</h2>
-          <img width="600" height="344" class="big-img" src="http://cms.peopleurl.cn/NMediaFile/2019/1012/MAIN201910121119206189762588389.jpg">
+          <img width="600" height="344" class="big-img" src="http://www.people.com.cn/NMediaFile/2019/1018/MAIN201910180920599286933149966.jpg">
         </div>
         <div class="right">
           <h2 class="mini-title">装备科技</h2>
@@ -101,10 +101,6 @@
 .select-box {
   margin: 25px 0;
 }
-.big-img {
-  width: 100%;
-  height: auto;
-}
 .mini-title {
   color: #214f80;
   font-size: 23px;
@@ -116,6 +112,9 @@
 }
 .people {
   margin-bottom: 20px;
+}
+.big-img {
+  margin-top: 8px;
 }
 .news-box {
   .news-box-left {

@@ -1,132 +1,135 @@
-[2019-10-18T17:39:10.971] [INFO] default - --------------------------- 开始编译 ---------------------------
-[2019-10-18T17:39:10.973] [INFO] default - 程序运行目录: D:\work\people outdoors
-[2019-10-18T17:39:10.973] [INFO] default - 首次启动!
-[2019-10-18T17:39:10.973] [INFO] default - 生成版本号: pb8w160zfj
-[2019-10-18T17:39:10.981] [INFO] default - 清理资源文件夹: D:\work\people outdoors\dist\static
-[2019-10-18T17:39:10.981] [INFO] default - 文件夹不存在: D:\work\people outdoors\dist\static
-[2019-10-18T17:39:10.982] [INFO] default - 创建文件夹: D:\work\people outdoors\dist\static
-[2019-10-18T17:39:10.982] [INFO] default - 读取模板文件: C:\Users\PG\Documents\GitHub\PG\lib\index.html
-[2019-10-18T17:39:10.982] [DEBUG] default - 读取网页标题: {TAG_14226_TAG}
-[2019-10-18T17:39:10.982] [DEBUG] default - 处理页面源信息: [{"http-equiv":"content-type","content":"text/html; charset=UTF-8"},{"name":"viewport","content":"width=1200, user-scalable=no"},{"name":"format-detection","content":"telephone=no, email=no"},{"name":"apple-mobile-web-app-capable","content":"yes"},{"name":"apple-mobile-web-app-status-bar-style","content":"white"},{"name":"renderer","content":"webkit"},{"http-equiv":"X-UA-Compatible","content":"IE=edge,chrome=1"},{"name":"filetype","content":"1"},{"name":"publishedtype","content":"1"},{"name":"pagetype","content":"2"},{"name":"screen-orientation","content":"landscape"},{"name":"x5-orientation","content":"landscape"},{"name":"full-screen","content":"yes"},{"name":"x5-fullscreen","content":"true"},{"name":"browsermode","content":"application"},{"name":"x5-page-mode","content":"app"}]
-[2019-10-18T17:39:10.983] [INFO] default - 开始处理模块: home
-[2019-10-18T17:39:11.014] [INFO] default - 开始处理模块: home
-[2019-10-18T17:39:11.015] [DEBUG] default - 使用文件缓存:D:\work\people outdoors\owo_modules\36be7a910363e6183790baa2fc78d0b3.owo
-[2019-10-18T17:39:11.020] [DEBUG] default - 缓存模板: topBarhttps://owo.ink/public/f328a09df7e4e0adc0303287f5e1bcc5.page
-[2019-10-18T17:39:11.026] [DEBUG] default - 模块topBar处理用时: 12 毫秒!
-[2019-10-18T17:39:11.027] [INFO] default - 开始处理模块: home
-[2019-10-18T17:39:11.027] [DEBUG] default - 使用文件缓存:D:\work\people outdoors\owo_modules\f8b61b739b55d50e9dc2e01e9c0deebe.owo
-[2019-10-18T17:39:11.033] [DEBUG] default - 缓存模板: navhttps://owo.ink/public/7a47ef367169c9579b2d164e4dc953e8.page
-[2019-10-18T17:39:11.070] [DEBUG] default - 模块nav处理用时: 43 毫秒!
-[2019-10-18T17:39:11.070] [INFO] default - 开始处理模块: home
-[2019-10-18T17:39:11.071] [DEBUG] default - 使用文件缓存:D:\work\people outdoors\owo_modules\21e8e315e2fd969c8942baa43f0f36ff.owo
-[2019-10-18T17:39:11.078] [DEBUG] default - 缓存模板: 44V6SpMvhttps://owo.ink/public/63a4be6677258acd991f865794e5605e.page
-[2019-10-18T17:39:11.090] [DEBUG] default - 模块44V6SpMv处理用时: 20 毫秒!
-[2019-10-18T17:39:11.090] [INFO] default - 开始处理模块: home
-[2019-10-18T17:39:11.093] [DEBUG] default - 缓存模板: imageShow./src/module/imageShow.owo
-[2019-10-18T17:39:11.094] [DEBUG] default - 模块imageShow处理用时: 4 毫秒!
-[2019-10-18T17:39:11.095] [DEBUG] default - 模块 imageShow 因名称重复被重命名为 imageShow-1
-[2019-10-18T17:39:11.095] [INFO] default - 开始处理模块: home
-[2019-10-18T17:39:11.095] [DEBUG] default - 使用缓存返回模板: home
-[2019-10-18T17:39:11.095] [DEBUG] default - 模块imageShow处理用时: 1 毫秒!
-[2019-10-18T17:39:11.095] [DEBUG] default - 模块 imageShow 因名称重复被重命名为 imageShow-2
-[2019-10-18T17:39:11.096] [INFO] default - 开始处理模块: home
-[2019-10-18T17:39:11.096] [DEBUG] default - 使用缓存返回模板: home
-[2019-10-18T17:39:11.099] [DEBUG] default - 模块imageShow处理用时: 4 毫秒!
-[2019-10-18T17:39:11.100] [INFO] default - 开始处理模块: home
-[2019-10-18T17:39:11.100] [DEBUG] default - 使用文件缓存:D:\work\people outdoors\owo_modules\adac7da517e800aaae6c0afedd423696.owo
-[2019-10-18T17:39:11.106] [DEBUG] default - 缓存模板: a5Jkh9zomp95ftbWhttps://owo.ink/public/f6f3e7e8691c2cf683f992fe7f24f22a.page
-[2019-10-18T17:39:11.111] [DEBUG] default - 模块a5Jkh9zomp95ftbW处理用时: 11 毫秒!
-[2019-10-18T17:39:11.111] [DEBUG] default - 模块 a5Jkh9zomp95ftbW 因名称重复被重命名为 a5Jkh9zomp95ftbW-1
-[2019-10-18T17:39:11.111] [INFO] default - 开始处理模块: home
-[2019-10-18T17:39:11.111] [DEBUG] default - 使用缓存返回模板: home
-[2019-10-18T17:39:11.113] [DEBUG] default - 模块a5Jkh9zomp95ftbW处理用时: 2 毫秒!
-[2019-10-18T17:39:11.113] [INFO] default - 开始处理模块: home
-[2019-10-18T17:39:11.113] [DEBUG] default - 使用文件缓存:D:\work\people outdoors\owo_modules\8c74136d04d9e7152ae3d4fac4641762.owo
-[2019-10-18T17:39:11.116] [DEBUG] default - 缓存模板: showhttps://owo.ink/public/1daac229a234cff3f81bdd31868e298f.page
-[2019-10-18T17:39:11.117] [DEBUG] default - 模块show处理用时: 4 毫秒!
-[2019-10-18T17:39:11.117] [INFO] default - 开始处理模块: home
-[2019-10-18T17:39:11.123] [DEBUG] default - 缓存模板: selectBox./src/module/selectBox.owo
-[2019-10-18T17:39:11.125] [DEBUG] default - 模块selectBox处理用时: 8 毫秒!
-[2019-10-18T17:39:11.125] [INFO] default - 开始处理模块: home
-[2019-10-18T17:39:11.183] [DEBUG] default - 缓存模板: peopleNewsList./src/module/peopleNewsList.owo
-[2019-10-18T17:39:11.216] [DEBUG] default - 模块peopleNewsList处理用时: 91 毫秒!
-[2019-10-18T17:39:11.217] [INFO] default - 开始处理模块: home
-[2019-10-18T17:39:11.220] [INFO] default - 开始处理模块: home
-[2019-10-18T17:39:11.220] [DEBUG] default - 使用文件缓存:D:\work\people outdoors\owo_modules\1d78cc249174e246edc014916c8aba51.owo
-[2019-10-18T17:39:11.224] [DEBUG] default - 缓存模板: listhttps://owo.ink/public/349aee08654c8b9ad14262b0d91a0b86.page
-[2019-10-18T17:39:11.228] [DEBUG] default - 模块list处理用时: 8 毫秒!
-[2019-10-18T17:39:11.229] [DEBUG] default - 缓存模板: imageShowList./src/module/imageShowList.owo
-[2019-10-18T17:39:11.230] [DEBUG] default - 模块imageShowList处理用时: 14 毫秒!
-[2019-10-18T17:39:11.231] [DEBUG] default - 模块 imageShowList 因名称重复被重命名为 imageShowList-1
-[2019-10-18T17:39:11.231] [INFO] default - 开始处理模块: home
-[2019-10-18T17:39:11.231] [DEBUG] default - 使用缓存返回模板: home
-[2019-10-18T17:39:11.232] [DEBUG] default - 模块imageShowList处理用时: 1 毫秒!
-[2019-10-18T17:39:11.232] [DEBUG] default - 模块 imageShowList 因名称重复被重命名为 imageShowList-2
-[2019-10-18T17:39:11.232] [INFO] default - 开始处理模块: home
-[2019-10-18T17:39:11.232] [DEBUG] default - 使用缓存返回模板: home
-[2019-10-18T17:39:11.234] [DEBUG] default - 模块imageShowList处理用时: 2 毫秒!
-[2019-10-18T17:39:11.234] [DEBUG] default - 模块 show 因名称重复被重命名为 show-1
-[2019-10-18T17:39:11.234] [INFO] default - 开始处理模块: home
-[2019-10-18T17:39:11.234] [DEBUG] default - 使用缓存返回模板: home
-[2019-10-18T17:39:11.235] [DEBUG] default - 模块show处理用时: 1 毫秒!
-[2019-10-18T17:39:11.235] [DEBUG] default - 模块 show 因名称重复被重命名为 show-2
-[2019-10-18T17:39:11.235] [INFO] default - 开始处理模块: home
-[2019-10-18T17:39:11.235] [DEBUG] default - 使用缓存返回模板: home
-[2019-10-18T17:39:11.235] [DEBUG] default - 模块show处理用时: 0 毫秒!
-[2019-10-18T17:39:11.236] [DEBUG] default - 模块 show 因名称重复被重命名为 show-3
-[2019-10-18T17:39:11.236] [INFO] default - 开始处理模块: home
-[2019-10-18T17:39:11.236] [DEBUG] default - 使用缓存返回模板: home
-[2019-10-18T17:39:11.236] [DEBUG] default - 模块show处理用时: 1 毫秒!
-[2019-10-18T17:39:11.236] [INFO] default - 开始处理模块: home
-[2019-10-18T17:39:11.236] [DEBUG] default - 使用文件缓存:D:\work\people outdoors\owo_modules\2d1b1bd77ff86faaf02ea76049d3e007.owo
-[2019-10-18T17:39:11.239] [DEBUG] default - 缓存模板: copyrighthttps://owo.ink/public/080195cd2dcfc878e55f9b7f9fa1c9b7.page
-[2019-10-18T17:39:11.241] [DEBUG] default - 模块copyright处理用时: 5 毫秒!
-[2019-10-18T17:39:11.241] [INFO] default - 开始处理模块: home
-[2019-10-18T17:39:11.241] [DEBUG] default - 使用文件缓存:D:\work\people outdoors\owo_modules\81037edc1b84fa90ff82fd660b547754.owo
-[2019-10-18T17:39:11.244] [DEBUG] default - 缓存模板: Qj0JzJhttps://owo.ink/public/e6ab7da94b30399ecf828f1c8c704521.page
-[2019-10-18T17:39:11.245] [DEBUG] default - 模块Qj0JzJ处理用时: 4 毫秒!
-[2019-10-18T17:39:11.250] [DEBUG] default - 缓存模板: home./src/page/home.page
-[2019-10-18T17:39:11.254] [DEBUG] default - 页面home处理用时: 271 毫秒!
-[2019-10-18T17:39:11.255] [INFO] default - 文件夹不存在: D:/work/people outdoors/dist/static/resource
-[2019-10-18T17:39:11.256] [INFO] default - 创建文件夹: D:/work/people outdoors/dist/static/resource
-[2019-10-18T17:39:11.257] [DEBUG] default - 处理资源:  [ 'D:/work/people outdoors/src/resource/main-title-bg.png',
-  'D:/work/people outdoors/src/resource/card-bg.jpg' ]
-[2019-10-18T17:39:11.257] [DEBUG] default - 资源目录:  D:/work/people outdoors/dist/static/resource
-[2019-10-18T17:39:11.259] [DEBUG] default - css中的资源处理完毕!
-[2019-10-18T17:39:11.259] [DEBUG] default - 使用postcss处理样式，使用了1个插件!
-[2019-10-18T17:39:11.311] [INFO] default - 文件夹不存在: D:\work\people outdoors\dist\static\css
-[2019-10-18T17:39:11.311] [INFO] default - 创建文件夹: D:\work\people outdoors\dist\static\css
-[2019-10-18T17:39:11.311] [INFO] default - 开始处理附属css中的资源
-[2019-10-18T17:39:11.311] [INFO] default - 附属css中的资源处理完毕!
-[2019-10-18T17:39:11.312] [INFO] default - 处理字体: {}
-[2019-10-18T17:39:11.317] [INFO] default - 使用postcss处理完毕! 用时: 58 毫秒
-[2019-10-18T17:39:11.318] [INFO] default - 正在处理script!
-[2019-10-18T17:39:11.319] [INFO] default - 工程中只有一个页面!
-[2019-10-18T17:39:11.320] [INFO] default - 文件夹不存在: D:\work\people outdoors\dist\static\js
-[2019-10-18T17:39:11.320] [INFO] default - 创建文件夹: D:\work\people outdoors\dist\static\js
-[2019-10-18T17:39:11.870] [INFO] default - js中的资源处理完毕!
-[2019-10-18T17:39:11.870] [DEBUG] default - 处理引用脚本: [{"name":"jquery1.11.0","src":"http://tools.people.com.cn/libs/jquery/1.11.1/jquery-1.11.1.min.js"},{"name":"idangerous.swiper2.7.0","src":"http://tools.people.com.cn/libs/swiper/2.0/idangerous.swiper.min.js"},{"name":"main","src":"./src/main.js","resource":true}]
-[2019-10-18T17:39:11.871] [DEBUG] default - 外部脚本数量: 3
-[2019-10-18T17:39:11.871] [DEBUG] default - 处理脚本: jquery1.11.0
-[2019-10-18T17:39:11.871] [DEBUG] default - 网络脚本: jquery1.11.0
-[2019-10-18T17:39:11.871] [DEBUG] default - 处理脚本: idangerous.swiper2.7.0
-[2019-10-18T17:39:11.871] [DEBUG] default - 网络脚本: idangerous.swiper2.7.0
-[2019-10-18T17:39:11.871] [DEBUG] default - 处理脚本: main
-[2019-10-18T17:39:11.871] [INFO] default - 读取文件: D:\work\people outdoors\src\main.js
-[2019-10-18T17:39:11.871] [DEBUG] default - 输出scriptData
-[2019-10-18T17:39:11.872] [DEBUG] default - 准备输出html!
-[2019-10-18T17:39:11.873] [DEBUG] default - 处理资源:  [ 'D:/work/people outdoors/src/resource/item-1.png',
-  'D:/work/people outdoors/src/resource/item-2.png',
-  'D:/work/people outdoors/src/resource/item-3.png',
-  'D:/work/people outdoors/src/resource/item-4.png' ]
-[2019-10-18T17:39:11.873] [DEBUG] default - 资源目录:  D:/work/people outdoors/dist/static/resource
-[2019-10-18T17:39:11.873] [DEBUG] default - 开始美化html
-[2019-10-18T17:39:11.914] [INFO] default - 编译结束!
-[2019-10-18T17:39:11.929] [INFO] default - 写入文件: D:\work\people outdoors\dist\static\css\owo.main.pb8w160zfj.css
-[2019-10-18T17:39:11.929] [INFO] default - 主要逻辑文件写出成功!
-[2019-10-18T17:39:11.929] [INFO] default - 读取成功: D:\work\people outdoors\src\main.css
-[2019-10-18T17:39:11.929] [DEBUG] default - 处理资源:  [ 'D:/work/people outdoors/src/resource/bg.jpg' ]
-[2019-10-18T17:39:11.929] [DEBUG] default - 资源目录:  D:/work/people outdoors/dist/static/resource
-[2019-10-18T17:39:11.929] [INFO] default - 读取成功: D:\work\people outdoors\src\main.js
-[2019-10-18T17:39:11.930] [INFO] default - 写入文件: D:\work\people outdoors\dist\static\css\main.css
-[2019-10-18T17:39:11.931] [INFO] default - 写入文件: D:\work\people outdoors\dist\static\js\main.js
+[2019-10-20T22:47:52.352] [INFO] default - --------------------------- 开始编译 ---------------------------
+[2019-10-20T22:47:52.354] [INFO] default - 程序运行目录: C:\Users\my\Documents\GitHub\people-outdoors
+[2019-10-20T22:47:52.354] [INFO] default - 首次启动!
+[2019-10-20T22:47:52.354] [INFO] default - 生成版本号: zwahft19gj
+[2019-10-20T22:47:52.358] [INFO] default - 清理资源文件夹: C:\Users\my\Documents\GitHub\people-outdoors\dist\static
+[2019-10-20T22:47:52.358] [INFO] default - 文件夹不存在: C:\Users\my\Documents\GitHub\people-outdoors\dist\static
+[2019-10-20T22:47:52.359] [INFO] default - 创建文件夹: C:\Users\my\Documents\GitHub\people-outdoors\dist\static
+[2019-10-20T22:47:52.359] [INFO] default - 读取模板文件: C:\Users\my\Documents\GitHub\pack\lib\index.html
+[2019-10-20T22:47:52.359] [DEBUG] default - 读取网页标题: {TAG_14226_TAG}
+[2019-10-20T22:47:52.359] [DEBUG] default - 处理页面源信息: [{"http-equiv":"content-type","content":"text/html; charset=UTF-8"},{"name":"viewport","content":"width=1200, user-scalable=no"},{"name":"format-detection","content":"telephone=no, email=no"},{"name":"apple-mobile-web-app-capable","content":"yes"},{"name":"apple-mobile-web-app-status-bar-style","content":"white"},{"name":"renderer","content":"webkit"},{"http-equiv":"X-UA-Compatible","content":"IE=edge,chrome=1"},{"name":"filetype","content":"1"},{"name":"publishedtype","content":"1"},{"name":"pagetype","content":"2"},{"name":"screen-orientation","content":"landscape"},{"name":"x5-orientation","content":"landscape"},{"name":"full-screen","content":"yes"},{"name":"x5-fullscreen","content":"true"},{"name":"browsermode","content":"application"},{"name":"x5-page-mode","content":"app"}]
+[2019-10-20T22:47:52.360] [INFO] default - 开始处理模块: home
+[2019-10-20T22:47:52.394] [INFO] default - 开始处理模块: home
+[2019-10-20T22:47:52.394] [DEBUG] default - 使用文件缓存:C:\Users\my\Documents\GitHub\people-outdoors\owo_modules\36be7a910363e6183790baa2fc78d0b3.owo
+[2019-10-20T22:47:52.407] [DEBUG] default - 缓存模板: topBarhttps://owo.ink/public/f328a09df7e4e0adc0303287f5e1bcc5.page
+[2019-10-20T22:47:52.414] [DEBUG] default - 模块topBar处理用时: 21 毫秒!
+[2019-10-20T22:47:52.414] [INFO] default - 开始处理模块: home
+[2019-10-20T22:47:52.414] [DEBUG] default - 使用文件缓存:C:\Users\my\Documents\GitHub\people-outdoors\owo_modules\f8b61b739b55d50e9dc2e01e9c0deebe.owo
+[2019-10-20T22:47:52.422] [DEBUG] default - 缓存模板: navhttps://owo.ink/public/7a47ef367169c9579b2d164e4dc953e8.page
+[2019-10-20T22:47:52.469] [DEBUG] default - 模块nav处理用时: 55 毫秒!
+[2019-10-20T22:47:52.470] [INFO] default - 开始处理模块: home
+[2019-10-20T22:47:52.470] [DEBUG] default - 使用文件缓存:C:\Users\my\Documents\GitHub\people-outdoors\owo_modules\21e8e315e2fd969c8942baa43f0f36ff.owo
+[2019-10-20T22:47:52.478] [DEBUG] default - 缓存模板: 44V6SpMvhttps://owo.ink/public/63a4be6677258acd991f865794e5605e.page
+[2019-10-20T22:47:52.495] [DEBUG] default - 模块44V6SpMv处理用时: 25 毫秒!
+[2019-10-20T22:47:52.495] [INFO] default - 开始处理模块: home
+[2019-10-20T22:47:52.501] [DEBUG] default - 缓存模板: imageShow./src/module/imageShow.owo
+[2019-10-20T22:47:52.502] [DEBUG] default - 模块imageShow处理用时: 7 毫秒!
+[2019-10-20T22:47:52.502] [DEBUG] default - 模块 imageShow 因名称重复被重命名为 imageShow-1
+[2019-10-20T22:47:52.502] [INFO] default - 开始处理模块: home
+[2019-10-20T22:47:52.502] [DEBUG] default - 使用缓存返回模板: home
+[2019-10-20T22:47:52.503] [DEBUG] default - 模块imageShow处理用时: 1 毫秒!
+[2019-10-20T22:47:52.503] [DEBUG] default - 模块 imageShow 因名称重复被重命名为 imageShow-2
+[2019-10-20T22:47:52.503] [INFO] default - 开始处理模块: home
+[2019-10-20T22:47:52.504] [DEBUG] default - 使用缓存返回模板: home
+[2019-10-20T22:47:52.504] [DEBUG] default - 模块imageShow处理用时: 1 毫秒!
+[2019-10-20T22:47:52.505] [INFO] default - 开始处理模块: home
+[2019-10-20T22:47:52.505] [DEBUG] default - 使用文件缓存:C:\Users\my\Documents\GitHub\people-outdoors\owo_modules\adac7da517e800aaae6c0afedd423696.owo
+[2019-10-20T22:47:52.514] [DEBUG] default - 缓存模板: a5Jkh9zomp95ftbWhttps://owo.ink/public/f6f3e7e8691c2cf683f992fe7f24f22a.page
+[2019-10-20T22:47:52.521] [DEBUG] default - 模块a5Jkh9zomp95ftbW处理用时: 15 毫秒!
+[2019-10-20T22:47:52.521] [DEBUG] default - 模块 a5Jkh9zomp95ftbW 因名称重复被重命名为 a5Jkh9zomp95ftbW-1
+[2019-10-20T22:47:52.521] [INFO] default - 开始处理模块: home
+[2019-10-20T22:47:52.521] [DEBUG] default - 使用缓存返回模板: home
+[2019-10-20T22:47:52.524] [DEBUG] default - 模块a5Jkh9zomp95ftbW处理用时: 3 毫秒!
+[2019-10-20T22:47:52.524] [INFO] default - 开始处理模块: home
+[2019-10-20T22:47:52.525] [DEBUG] default - 使用文件缓存:C:\Users\my\Documents\GitHub\people-outdoors\owo_modules\8c74136d04d9e7152ae3d4fac4641762.owo
+[2019-10-20T22:47:52.529] [DEBUG] default - 缓存模板: showhttps://owo.ink/public/1daac229a234cff3f81bdd31868e298f.page
+[2019-10-20T22:47:52.530] [DEBUG] default - 模块show处理用时: 6 毫秒!
+[2019-10-20T22:47:52.531] [INFO] default - 开始处理模块: home
+[2019-10-20T22:47:52.535] [DEBUG] default - 缓存模板: selectBox./src/module/selectBox.owo
+[2019-10-20T22:47:52.537] [DEBUG] default - 模块selectBox处理用时: 7 毫秒!
+[2019-10-20T22:47:52.538] [INFO] default - 开始处理模块: home
+[2019-10-20T22:47:52.608] [DEBUG] default - 缓存模板: peopleNewsList./src/module/peopleNewsList.owo
+[2019-10-20T22:47:52.640] [DEBUG] default - 模块peopleNewsList处理用时: 102 毫秒!
+[2019-10-20T22:47:52.641] [INFO] default - 开始处理模块: home
+[2019-10-20T22:47:52.643] [INFO] default - 开始处理模块: home
+[2019-10-20T22:47:52.644] [DEBUG] default - 使用文件缓存:C:\Users\my\Documents\GitHub\people-outdoors\owo_modules\1d78cc249174e246edc014916c8aba51.owo
+[2019-10-20T22:47:52.648] [DEBUG] default - 缓存模板: listhttps://owo.ink/public/349aee08654c8b9ad14262b0d91a0b86.page
+[2019-10-20T22:47:52.654] [DEBUG] default - 模块list处理用时: 11 毫秒!
+[2019-10-20T22:47:52.654] [DEBUG] default - 缓存模板: imageShowList./src/module/imageShowList.owo
+[2019-10-20T22:47:52.656] [DEBUG] default - 模块imageShowList处理用时: 16 毫秒!
+[2019-10-20T22:47:52.656] [DEBUG] default - 模块 imageShowList 因名称重复被重命名为 imageShowList-1
+[2019-10-20T22:47:52.656] [INFO] default - 开始处理模块: home
+[2019-10-20T22:47:52.656] [DEBUG] default - 使用缓存返回模板: home
+[2019-10-20T22:47:52.658] [DEBUG] default - 模块imageShowList处理用时: 2 毫秒!
+[2019-10-20T22:47:52.658] [DEBUG] default - 模块 imageShowList 因名称重复被重命名为 imageShowList-2
+[2019-10-20T22:47:52.658] [INFO] default - 开始处理模块: home
+[2019-10-20T22:47:52.658] [DEBUG] default - 使用缓存返回模板: home
+[2019-10-20T22:47:52.660] [DEBUG] default - 模块imageShowList处理用时: 2 毫秒!
+[2019-10-20T22:47:52.661] [DEBUG] default - 模块 show 因名称重复被重命名为 show-1
+[2019-10-20T22:47:52.661] [INFO] default - 开始处理模块: home
+[2019-10-20T22:47:52.661] [DEBUG] default - 使用缓存返回模板: home
+[2019-10-20T22:47:52.661] [DEBUG] default - 模块show处理用时: 1 毫秒!
+[2019-10-20T22:47:52.661] [DEBUG] default - 模块 show 因名称重复被重命名为 show-2
+[2019-10-20T22:47:52.661] [INFO] default - 开始处理模块: home
+[2019-10-20T22:47:52.661] [DEBUG] default - 使用缓存返回模板: home
+[2019-10-20T22:47:52.662] [DEBUG] default - 模块show处理用时: 1 毫秒!
+[2019-10-20T22:47:52.662] [DEBUG] default - 模块 show 因名称重复被重命名为 show-3
+[2019-10-20T22:47:52.662] [INFO] default - 开始处理模块: home
+[2019-10-20T22:47:52.662] [DEBUG] default - 使用缓存返回模板: home
+[2019-10-20T22:47:52.662] [DEBUG] default - 模块show处理用时: 0 毫秒!
+[2019-10-20T22:47:52.662] [INFO] default - 开始处理模块: home
+[2019-10-20T22:47:52.663] [DEBUG] default - 使用文件缓存:C:\Users\my\Documents\GitHub\people-outdoors\owo_modules\2d1b1bd77ff86faaf02ea76049d3e007.owo
+[2019-10-20T22:47:52.665] [DEBUG] default - 缓存模板: copyrighthttps://owo.ink/public/080195cd2dcfc878e55f9b7f9fa1c9b7.page
+[2019-10-20T22:47:52.668] [DEBUG] default - 模块copyright处理用时: 6 毫秒!
+[2019-10-20T22:47:52.668] [INFO] default - 开始处理模块: home
+[2019-10-20T22:47:52.668] [DEBUG] default - 使用文件缓存:C:\Users\my\Documents\GitHub\people-outdoors\owo_modules\81037edc1b84fa90ff82fd660b547754.owo
+[2019-10-20T22:47:52.671] [DEBUG] default - 缓存模板: Qj0JzJhttps://owo.ink/public/e6ab7da94b30399ecf828f1c8c704521.page
+[2019-10-20T22:47:52.675] [DEBUG] default - 模块Qj0JzJ处理用时: 7 毫秒!
+[2019-10-20T22:47:52.684] [DEBUG] default - 缓存模板: home./src/page/home.page
+[2019-10-20T22:47:52.689] [DEBUG] default - 页面home处理用时: 329 毫秒!
+[2019-10-20T22:47:52.691] [INFO] default - 文件夹不存在: C:/Users/my/Documents/GitHub/people-outdoors/dist/static/resource
+[2019-10-20T22:47:52.691] [INFO] default - 创建文件夹: C:/Users/my/Documents/GitHub/people-outdoors/dist/static/resource
+[2019-10-20T22:47:52.692] [DEBUG] default - 处理资源:  [ 'C:/Users/my/Documents/GitHub/people-outdoors/src/resource/main-title-bg.png',
+  'C:/Users/my/Documents/GitHub/people-outdoors/src/resource/card-bg.jpg' ]
+[2019-10-20T22:47:52.692] [DEBUG] default - 资源目录:  C:/Users/my/Documents/GitHub/people-outdoors/dist/static/resource
+[2019-10-20T22:47:52.694] [DEBUG] default - css中的资源处理完毕!
+[2019-10-20T22:47:52.694] [DEBUG] default - 使用postcss处理样式，使用了1个插件!
+[2019-10-20T22:47:52.760] [INFO] default - 文件夹不存在: C:\Users\my\Documents\GitHub\people-outdoors\dist\static\css
+[2019-10-20T22:47:52.760] [INFO] default - 创建文件夹: C:\Users\my\Documents\GitHub\people-outdoors\dist\static\css
+[2019-10-20T22:47:52.760] [INFO] default - 开始处理附属css中的资源
+[2019-10-20T22:47:52.761] [INFO] default - 附属css中的资源处理完毕!
+[2019-10-20T22:47:52.761] [INFO] default - 处理字体: {}
+[2019-10-20T22:47:52.910] [INFO] default - 使用postcss处理完毕! 用时: 216 毫秒
+[2019-10-20T22:47:52.911] [INFO] default - 正在处理script!
+[2019-10-20T22:47:52.912] [INFO] default - 工程中只有一个页面!
+[2019-10-20T22:47:52.913] [INFO] default - 文件夹不存在: C:\Users\my\Documents\GitHub\people-outdoors\dist\static\js
+[2019-10-20T22:47:52.913] [INFO] default - 创建文件夹: C:\Users\my\Documents\GitHub\people-outdoors\dist\static\js
+[2019-10-20T22:47:52.913] [DEBUG] default - 选择将js合并到html中!
+[2019-10-20T22:47:53.524] [INFO] default - js中的资源处理完毕!
+[2019-10-20T22:47:53.524] [INFO] default - 读取文件: C:\Users\my\Documents\GitHub\pack\core\debug\autoReload.js
+[2019-10-20T22:47:53.524] [DEBUG] default - 处理引用脚本: [{"name":"jquery1.11.0","src":"http://tools.people.com.cn/libs/jquery/1.11.1/jquery-1.11.1.min.js"},{"name":"idangerous.swiper2.7.0","src":"http://tools.people.com.cn/libs/swiper/2.0/idangerous.swiper.min.js"},{"name":"main","src":"./src/main.js","resource":true}]
+[2019-10-20T22:47:53.525] [DEBUG] default - 外部脚本数量: 3
+[2019-10-20T22:47:53.525] [DEBUG] default - 处理脚本: jquery1.11.0
+[2019-10-20T22:47:53.525] [DEBUG] default - 网络脚本: jquery1.11.0
+[2019-10-20T22:47:53.525] [DEBUG] default - 处理脚本: idangerous.swiper2.7.0
+[2019-10-20T22:47:53.525] [DEBUG] default - 网络脚本: idangerous.swiper2.7.0
+[2019-10-20T22:47:53.525] [DEBUG] default - 处理脚本: main
+[2019-10-20T22:47:53.525] [INFO] default - 读取文件: C:\Users\my\Documents\GitHub\people-outdoors\src\main.js
+[2019-10-20T22:47:53.525] [DEBUG] default - 输出scriptData
+[2019-10-20T22:47:53.526] [DEBUG] default - 准备输出html!
+[2019-10-20T22:47:53.526] [DEBUG] default - 处理资源:  [ 'C:/Users/my/Documents/GitHub/people-outdoors/src/resource/item-1.png',
+  'C:/Users/my/Documents/GitHub/people-outdoors/src/resource/item-2.png',
+  'C:/Users/my/Documents/GitHub/people-outdoors/src/resource/item-3.png',
+  'C:/Users/my/Documents/GitHub/people-outdoors/src/resource/item-4.png' ]
+[2019-10-20T22:47:53.526] [DEBUG] default - 资源目录:  C:/Users/my/Documents/GitHub/people-outdoors/dist/static/resource
+[2019-10-20T22:47:53.528] [INFO] default - 编译结束!
+[2019-10-20T22:47:53.529] [INFO] default - 发送重新页面需要刷新命令!
+[2019-10-20T22:47:53.547] [INFO] default - 主要逻辑文件写出成功!
+[2019-10-20T22:47:53.550] [INFO] default - 读取成功: C:\Users\my\Documents\GitHub\people-outdoors\src\main.css
+[2019-10-20T22:47:53.551] [DEBUG] default - 处理资源:  [ 'C:/Users/my/Documents/GitHub/people-outdoors/src/resource/bg.jpg' ]
+[2019-10-20T22:47:53.551] [DEBUG] default - 资源目录:  C:/Users/my/Documents/GitHub/people-outdoors/dist/static/resource
+[2019-10-20T22:47:53.551] [INFO] default - 读取成功: C:\Users\my\Documents\GitHub\pack\core\debug\autoReload.js
+[2019-10-20T22:47:53.551] [INFO] default - 读取成功: C:\Users\my\Documents\GitHub\people-outdoors\src\main.js
+[2019-10-20T22:47:53.556] [INFO] default - 写入文件: C:\Users\my\Documents\GitHub\people-outdoors\dist\static\js\main.js
+[2019-10-20T22:47:53.556] [INFO] default - 写入文件: C:\Users\my\Documents\GitHub\people-outdoors\dist\static\css\main.css
+[2019-10-20T22:47:53.556] [INFO] default - 写入文件: C:\Users\my\Documents\GitHub\people-outdoors\dist\static\js\autoReload.js
